@@ -1,4 +1,4 @@
-//import React from 'react';
+import React from 'react';
 import { YMaps, Map, Placemark, Polygon, FullscreenControl, TypeSelector, ZoomControl } from 'react-yandex-maps';
 import './yandexmap.css';
 import balloon from './balloon.png';
